@@ -3,4 +3,3 @@ suma=0
 for i in range(len(n)):
     suma=suma+n[i]
 print(suma)
-    
