@@ -7,6 +7,8 @@ cache:
 
 python:
   - "2.7"
+   "3.6-dev" # 3.6 development branch
+  - "3.7-dev" # 3.7 development branch
 
 sudo: required
 
@@ -29,6 +31,7 @@ script:
   - ./others.sh
   - ./total.sh
   - ./reports.sh
+  - -pytest
 
 addons:
   artifacts:
