@@ -1,0 +1,33 @@
+mysql 1
+http://www.w3schools.com/sql/sql_injection.asp
+
+admin 'or' 1'='1
+
+stegano atachment
+
+cambiar a .rar 
+solution.txt
+GOGOFHSGGOES
+
+
+
+register global
+hxxps://www.wechall.net/challenge/training/php/globals/globals.php?username=test&password=test&login[0]=admin
+
+
+guesswork 
+
+wechallbot
+
+
+regex 1
+
+/^$/
+http://aprenda.vidageek.net/aprenda/regex
+regex2
+
+http://aprenda.vidageek.net/aprenda/regex
+https://www.adictosaltrabajo.com/tutoriales/regexsam/
+
+wechall=((jpg|png|gif|bmp))$)
+/wechall.(?:jpg|tiff|bmp|png|gif)$/
